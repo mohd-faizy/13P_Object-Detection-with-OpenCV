@@ -1,5 +1,5 @@
 def main():
-    print("Hello from object-detection-opencv!")
+    print("Hello from 13p-object-detection-with-opencv!")
 
 
 if __name__ == "__main__":

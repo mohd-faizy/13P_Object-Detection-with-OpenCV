@@ -2,7 +2,7 @@
 # Dependencies and libraries required to run all notebooks
 
 # Core Computer Vision and Image Processing
-opencv-python
+opencv-python>=4.8.0,<5.0.0
 numpy
 matplotlib
 Pillow
