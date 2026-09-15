@@ -1,0 +1,14 @@
+# Computer Vision - Object Detection with OpenCV and Python
+# Dependencies and libraries required to run all notebooks
+
+# Core Computer Vision and Image Processing
+opencv-python
+numpy
+matplotlib
+Pillow
+
+# Jupyter Notebook Environment
+jupyter
+notebook
+ipykernel
+ipywidgets
